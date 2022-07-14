@@ -58,3 +58,7 @@ body {
 #fahrenheit {
   text-decoration: none;
 }
+#reference {
+  font-size: 12px;
+  text-align: center;
+}
